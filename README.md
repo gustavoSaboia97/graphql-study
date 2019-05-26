@@ -1,0 +1,1 @@
+Um estudo sobre gerar API com graphql.
